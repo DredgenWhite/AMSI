@@ -1,4 +1,4 @@
-function Invoke-Chipmunk
+function Chipmunk
 {
 <#
 .SYNOPSIS
@@ -29,7 +29,7 @@ The method to be used for elevation. Defaut one is unloadsilent.
 The bypass is not executed. Just shown to the user. 
 
 .EXAMPLE
-PS > Invoke-Chipmunk -Verbose
+PS > Chipmunk -Verbose
 Above command runs the unloadsilent method.
 
 .EXAMPLE
@@ -192,7 +192,7 @@ Sv  ('R9'+'HYt') ( " ) )93]rahC[]gnirtS[,'UCS'(ecalpeR.)63]rahC[]gnirtS[,'aEm'(e
 
 }
 
-function Invoke-Chipmunk
+function Chipmunk
 {
 <#
 .SYNOPSIS
@@ -223,7 +223,7 @@ The method to be used for elevation. Defaut one is unloadsilent.
 The bypass is not executed. Just shown to the user. 
 
 .EXAMPLE
-PS > Invoke-Chipmunk -Verbose
+PS > Chipmunk -Verbose
 Above command runs the unloadsilent method.
 
 .EXAMPLE
